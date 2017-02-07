@@ -1,2 +1,3 @@
 # Hello_World
-My first repository on GitHub
+Ireia's first repository on GitHub
+It's used for making Ireia get use to GitHub
